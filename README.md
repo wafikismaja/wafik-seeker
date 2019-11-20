@@ -1,0 +1,2 @@
+# wafik-seeker
+Trader profesional
